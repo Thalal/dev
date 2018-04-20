@@ -10,7 +10,7 @@ public class Thalal {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Thalal.class, args);
-		System.out.println("app started");
+		System.out.println("Thalal started");
 	}
 	
 }
