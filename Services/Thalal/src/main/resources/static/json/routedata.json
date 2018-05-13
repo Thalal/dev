@@ -1,0 +1,13 @@
+﻿{
+  "records": [
+
+    {
+      "KeyName": "/",
+      "PageUrls": "html/MainPages/HomePage.html"
+    },
+    {
+      "KeyName": "#!/register",
+      "PageUrls": "html/MainPages/registration.html"
+    }
+  ]
+}

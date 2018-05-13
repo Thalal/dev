@@ -1,11 +1,12 @@
 
-// creating App module for the project
-var SoMas = angular.module("Thalal",[]);
-SoMas.controller('ThalalHomeController', function($scope) {
 
+Thalal.controller('ThalalHomeController', function($scope,$rootScope) {
     $scope.singIn=function(singvar){
         alert(singvar)
 
     };
-    
+
 });
+
+
+
